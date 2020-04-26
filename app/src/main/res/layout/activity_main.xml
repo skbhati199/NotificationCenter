@@ -10,14 +10,14 @@
 
     <EditText
         android:textAppearance="@style/TextAppearance.AppCompat.Title"
-        android:hint="Title"
+        android:text="Title"
         android:id="@+id/ed_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
     <EditText
         android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
-        android:hint="Descriptions"
+        android:text="Descriptions"
         android:id="@+id/ed_description"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
